@@ -2,10 +2,10 @@
 ### **Laboratorio: Simulación de Ataque MiTM con ARP Poisining en Ettercap**
 
 
-## 🎯 Objetivo
+## 🎯Objetivo
 Comprender cómo funciona un ataque de MiTM y observar sus efectos en una red local, utilizando herramientas básicas de Kali Linux.
 
-## 📋 Requisitos
+## 📋Requisitos
 -	Kali Linux (máquina atacante)
 -	Windows (máquina víctima)
 -	Metasploitable (máquina víctima)
